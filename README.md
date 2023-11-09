@@ -1,5 +1,7 @@
-# PhD-Study-1
+# AR application for optimal Rubik's Cube solution in C# for use in Unity.
 User experience study of instruction formats in AR built in Unity targeting the Meta 2 AR headset.
+
+The application first scans the current state of the Rubik's Cube, then calculates the optimal solution, which is presented to the AR use one step at a time as text instructions.
 
 This is not production quality code. It was developed for use in a controlled test laboratory environment as part of a specific test framework. 
 
