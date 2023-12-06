@@ -1,7 +1,7 @@
-# AR application for optimal Rubik's Cube solution in C# for use in Unity.
+# AR computer vision application for optimal Rubik's Cube solution in C#.
 User experience study of instruction formats in AR built in Unity targeting the Meta 2 AR headset.
 
-The application first scans the current state of the Rubik's Cube, then calculates the optimal solution, which is presented to the AR use one step at a time as text instructions.
+The application uses OpenCV (computer vision) to scan the current state of the Rubik's Cube, then calculates the optimal solution, which is presented to the AR use one step at a time as text instructions.
 
 This is not production quality code. It was developed for use in a controlled test laboratory environment as part of a specific test framework. 
 
